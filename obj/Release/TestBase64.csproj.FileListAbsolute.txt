@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\src\bin\Release\TestBase64.exe
+C:\Users\admin\Desktop\src\obj\Release\TestBase64.Form1.resources
+C:\Users\admin\Desktop\src\obj\Release\TestBase64.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\src\obj\Release\TestBase64.exe
+C:\Users\admin\Desktop\src\obj\Release\TestBase64.About.resources
+C:\Users\admin\Desktop\src\obj\Release\TestBase64.Properties.Resources.resources
